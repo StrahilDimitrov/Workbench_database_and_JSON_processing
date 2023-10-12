@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "brand": "Acer",
+        "model": "NITRO 5",
+        "proccessor": "AMD Ryzen 7",
+        "RAM": "16GB",
+        "SSD": "1TB"
+    },
+    {
+        "id": 2,
+        "brand": "Asus",
+        "model": "Vivobook",
+        "proccessor": "Intel Core i5",
+        "RAM": "8GB",
+        "SSD": "256GB"
+    },
+    {
+        "id": 3,
+        "brand": "Lenovo",
+        "model": "Legion",
+        "proccessor": "Intel Core i7",
+        "RAM": "16GB",
+        "SSD": "1TB"
+    }
+]
